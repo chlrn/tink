@@ -1,0 +1,6 @@
+com/example/tink/repository/TranslationRepository.class
+com/example/tink/controller/TranslationController.class
+com/example/tink/TranslationServiceApplication.class
+com/example/tink/dto/TranslationRequest.class
+com/example/tink/entity/TranslationEntity.class
+com/example/tink/service/TranslationService.class
