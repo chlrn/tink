@@ -17,7 +17,7 @@
 Сначала клонируйте репозиторий на ваш локальный компьютер:
 
 ```sh
-git clone https://github.com/chlrn/translation-service.git
+git clone https://github.com/chlrn/tink.git
 cd translation-service
 ```
 ### 2. Сборка приложения
